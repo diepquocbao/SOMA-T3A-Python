@@ -2,7 +2,7 @@
 
 An optimization algorithm - on python.
 
-The original version here:
+The original version here (on MATLAB):
 
 https://www.mathworks.com/matlabcentral/fileexchange/71328-soma-t3a-for-the-100-digit-challenge-gecco-2019
 
