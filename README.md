@@ -8,14 +8,18 @@ Link of the article:
 
 https://ieeexplore.ieee.org/document/8790202
 
-The original version here (on MATLAB):
+<ul>
+  <li>The original version here (on MATLAB):
 
-https://www.mathworks.com/matlabcentral/fileexchange/71328-soma-t3a-for-the-100-digit-challenge-gecco-2019
+<ul>
+  <li>https://www.mathworks.com/matlabcentral/fileexchange/71328-soma-t3a-for-the-100-digit-challenge-gecco-2019</li>
+    </ul></li>
 
 
-See more about SOMA at:
-
-https://ivanzelinka.eu/somaalgorithm/Home.html
+<li>See more about SOMA at:
+<ul><li>
+  https://ivanzelinka.eu/somaalgorithm/Home.html</li></ul></li>
+</ul>
 
 Please cite the article if you refer to it, as follows:
 
