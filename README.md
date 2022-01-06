@@ -27,5 +27,5 @@ Q. B. Diep, "Self-Organizing Migrating Algorithm Team To Team Adaptive – SOMA 
 </li></ul>
 If you encounter any problems in executing these codes, please do not hesitate to contact me:
 <ul><li>
-Quoc Bao Diep (diepquocbao@gmaill.com.)
-</li></ul>
+Quoc Bao Diep</li></ul> (diepquocbao@gmaill.com)
+
