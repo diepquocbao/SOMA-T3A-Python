@@ -26,6 +26,6 @@ Please cite the article if you refer to it, as follows:
 Q. B. Diep, "Self-Organizing Migrating Algorithm Team To Team Adaptive – SOMA T3A," 2019 IEEE Congress on Evolutionary Computation (CEC), 2019, pp. 1182-1187, doi: 10.1109/CEC.2019.8790202.
 </li></ul>
 If you encounter any problems in executing these codes, please do not hesitate to contact me:
-<ul><li>
-Quoc Bao Diep</li></ul> (diepquocbao@gmaill.com)
+
+Quoc Bao Diep (diepquocbao@gmaill.com)
 
