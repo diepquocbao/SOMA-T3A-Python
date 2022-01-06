@@ -1,6 +1,6 @@
 # SOMA-T3A-python
 
-An optimization algorithm - on python.
+An optimization algorithm - python version.
 
 The original version here (on MATLAB):
 
