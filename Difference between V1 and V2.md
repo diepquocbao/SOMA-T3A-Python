@@ -13,4 +13,4 @@ Dear Users,
 - In V2, the cost function is calculated after all (selected) individuals move.
 - Obviously, there is a slight performance difference between the 2 versions, but for me it is not significant (will investigate later).
 
-<strong>The SOMA T3A code using multiprocessing in python is not show here. Please add some (simple) lines in Version 2 depending on your design.</strong>
+<strong>SOMA T3A code using multiprocessing in python is not shown here (will post later). Please add some (simple) lines in Version 2 depending on your design to run in parallel.</strong>
